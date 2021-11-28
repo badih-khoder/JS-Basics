@@ -64,11 +64,11 @@
 1. In an external file:
 2. Ask the user for his shoe size and his birth year
 3. Create a function that:
-  1. Multiplies the shoe size by 2
-  2. Adds 5
-  3. Multiplies by 50
-  4. Subtracts the birth year
-  5. Adds 1766
+1. Multiplies the shoe size by 2
+2. Adds 5
+3. Multiplies by 50
+4. Subtracts the birth year
+5. Adds 1766
 4. Shows the result to the user  
 5. Commit
 
